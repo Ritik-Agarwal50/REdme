@@ -29,18 +29,18 @@ If you visit our Website theree is Two option out there. One is for Comapany and
 If you are apllicant you can click on apllicnat tag and fill up you form adn Uplaod You CV. So other company can communicatee with ypu of Future communication.
 
 ## Technologies We Used
-**-File Coin**- 
+**- File Coin**- 
  File coin is a decentralized file storage system.
  In this, we are storing the data of the Company and the applicant and retrieving it when any of the users want it.
  
-**-Polygon**- 
+**- Polygon**- 
  Polygon is a chain in which our project will be deployed. 
  We are using this network to keep it user-friendly for our applicant and company in terms of gas Fees
  
- **-Vailist**- 
+ **- Vailist**- 
   
   
-**-Chainlink**- 
+**- Chainlink**- 
   asdadadadasd
   
  **- Rainbow Kit**- 
