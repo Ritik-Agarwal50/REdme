@@ -23,6 +23,11 @@ Job Board is a Decentralize platform for Job Boarding.
   
   **-** Providing Intership.
 
+## How to post a job
+
+If you visit our Website theree is Two option out there. One is for Comapany and other is for Applicant. If you want to post job for Company Click on Company Tag Connct Your metamask account and Fill Up the form. 
+If you are apllicant you can click on apllicnat tag and fill up you form adn Uplaod You CV. So other company can communicatee with ypu of Future communication.
+
 ## Technologies We Used
 **-File Coin**- 
  File coin is a decentralized file storage system.
