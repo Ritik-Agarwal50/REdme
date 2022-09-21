@@ -39,6 +39,9 @@ If you visit our Website there is Two option out there. One is for Company and o
  Polygon is a chain in which our project will be deployed. 
  We are using this network to keep it user-friendly for our applicant and company in terms of gas Fees
  
+ <a href="https://polygon.technology/"><img src="https://user-images.githubusercontent.com/76695769/191501624-226d10fd-6108-4c80-86ff-88b768ea262b.jpg"></a>
+
+ 
  **- Vailist**- 
  "thinking"
   
