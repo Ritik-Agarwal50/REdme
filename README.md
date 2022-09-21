@@ -3,6 +3,11 @@
 Let me introduce you all to the fantastic website called Job Board. Usually, what we do we apply for jobs on the Web2 website which I don't like To be honest, we all decided to create our own website for job boarding on Web3. This was a roller-coaster journey for us. we faced a lot of back-breaking problems. The major task for us is of **Bounties** we never worked for bounties but this time we are doing it. We targeted 3-4 bounties in a single shot and we manage to figure out how to implement it.
 
 
+## Used Case
+
+Job Board is a Decentralize platform for Job Boarding and connecting with other people of your same Niche.
+We are connecting Company with the Applicant and vice versa. On this website, you can Board jobs as a Company as well as Applicant.
+ 
 
 ## Technologies We Used
 
