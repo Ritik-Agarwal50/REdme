@@ -42,6 +42,9 @@ If you are apllicant you can click on apllicnat tag and fill up you form adn Upl
   
 **-Chainlink**- 
   asdadadadasd
+  
+ **- Rainbow Kit**= 
+ RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
 
 ## Hurdles We faced during this project
 
