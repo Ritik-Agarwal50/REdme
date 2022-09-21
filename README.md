@@ -33,6 +33,8 @@ If you visit our Website there is Two option out there. One is for Company and o
  In this, we are storing the data of the Company and the applicant and retrieving it when any of the users want it.
  
  ![https://web3.storage/](https://user-images.githubusercontent.com/76695769/191498530-9295336e-d56a-4371-8713-57528654f072.png)
+ 
+ <a href="https://web3.storage/"><img src="https://user-images.githubusercontent.com/76695769/191498530-9295336e-d56a-4371-8713-57528654f072.png"></a>
 
  
 **- Polygon**- 
