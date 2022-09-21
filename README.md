@@ -20,11 +20,11 @@ We are connecting Company with the Applicant and vice versa. On this website, yo
  
 
 ## Technologies We Used
-**-File Coin - **
+**-File Coin- **
  File coin is a decentralized file storage system.
  In this, we are storing the data of the Company and the applicant and retrieving it when any of the users want it.
  
-**-Polygon - **
+**-Polygon- **
  Polygon is a chain in which our project will be deployed. 
  We are using this network to keep it user-friendly for our applicant and company in terms of gas Fees
  
