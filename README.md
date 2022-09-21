@@ -38,10 +38,11 @@ If you are apllicant you can click on apllicnat tag and fill up you form adn Upl
  We are using this network to keep it user-friendly for our applicant and company in terms of gas Fees
  
  **- Vailist**- 
+ "thinking"
   
   
 **- Chainlink**- 
-  asdadadadasd
+  "Thinking
   
  **- Rainbow Kit**- 
  RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
