@@ -4,7 +4,8 @@ Let me introduce you all to the fantastic website called Job Board. Usually, wha
 
 
 
-### Technologies we worked on
+## Technologies We Used
+
 **![download](https://user-images.githubusercontent.com/76695769/191413564-69e0445b-d59b-4bae-af41-cdf57fc3b668.png)
 ![Chainlink_Logo_Blue svg](https://user-images.githubusercontent.com/76695769/191413618-5d6b1df4-ca43-4238-87ad-2b07132c6fa1.png)
 ![UOGBDOgv_400x400](https://user-images.githubusercontent.com/76695769/191413630-e477e974-0a16-4222-aafe-53397b2ac1c6.jpg)
