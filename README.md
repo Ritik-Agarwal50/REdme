@@ -15,7 +15,8 @@ Let me introduce you all to the fantastic website called Job Board. Usually, wha
 
 
 **Chainlink(https://chain.link
-/)**
+/)**![Polygon_logo_resized jpeg](https://user-images.githubusercontent.com/76695769/191413657-c5b7d546-9609-4ad4-91ff-0c284b18ea5d.jpg)
+
 **Polygon(https://polygon.technology/)**
 
 **Valist(https://www.valist.io/)**
