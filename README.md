@@ -7,10 +7,10 @@ We heard that people Web3 people are using Centralize website for Getting jobs.S
 
 
 
-## Job Board
+## What is Career Expo?
 
 
-Let me introduce you all to the fantastic website called Job Board. Usually, what we do we apply for jobs on the Web2 website which I don't like To be honest, we all decided to create our own website for job boarding on Web3. This was a roller-coaster journey for us. we faced a lot of back-breaking problems. The major task for us is of **Bounties** we never worked for bounties but this time we are doing it. We targeted 3-4 bounties in a single shot and we manage to figure out how to implement it.
+Let me introduce you all to the fantastic website called Career Expo. Usually, what we do we apply for jobs on the Web2 website which I don't like To be honest, we all decided to create our own website for job boarding on Web3. At Carrer Expo, both company and the applicant can post their job requirements.  
 
 
 ## Used Case
@@ -20,11 +20,19 @@ We are connecting Company with the Applicant and vice versa. On this website, yo
  
 
 ## Technologies We Used
-
-![download](https://user-images.githubusercontent.com/76695769/191413564-69e0445b-d59b-4bae-af41-cdf57fc3b668.png)![](https://filecoin.io/)
-![Chainlink_Logo_Blue svg](https://user-images.githubusercontent.com/76695769/191413618-5d6b1df4-ca43-4238-87ad-2b07132c6fa1.png)![](https://chain.link/)
-![UOGBDOgv_400x400](https://user-images.githubusercontent.com/76695769/191413630-e477e974-0a16-4222-aafe-53397b2ac1c6.jpg)![](https://www.valist.io/)
-![Polygon_logo_resized jpeg](https://user-images.githubusercontent.com/76695769/191413657-c5b7d546-9609-4ad4-91ff-0c284b18ea5d.jpg)![](https://polygon.technology/)
+**-File Coin**
+ File coin is a decentralized file storage system.
+ In this, we are storing the data of the Company and the applicant and retrieving it when any of the users want it.
+ 
+**-Polygon**
+ Polygon is a chain in which our project will be deployed. 
+ We are using this network to keep it user-friendly for our applicant and company in terms of gas Fees
+ 
+ **-Vailist**
+  
+  
+ **-Chainlink**
+  asdadadadasd
 
 ## Hurdles We faced during this project
 
