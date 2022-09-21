@@ -1,4 +1,14 @@
+#Welcome To Career Expo
+
+
+##Idea behind Career Expo
+
+We heard that people Web3 people are using Centralize website for Getting jobs.So , Rahul, Passan, and I(Ritik) came up with the idea Of **Career Expo**.
+
+
+
 ## Job Board
+
 
 Let me introduce you all to the fantastic website called Job Board. Usually, what we do we apply for jobs on the Web2 website which I don't like To be honest, we all decided to create our own website for job boarding on Web3. This was a roller-coaster journey for us. we faced a lot of back-breaking problems. The major task for us is of **Bounties** we never worked for bounties but this time we are doing it. We targeted 3-4 bounties in a single shot and we manage to figure out how to implement it.
 
