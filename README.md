@@ -57,5 +57,8 @@ While working with the front end we faced **Hydration** error in Next.js. Which 
 ## What We Learned
 
 **-** The Use of File Coin. How to integrate File Coin, Store data in file Coin, and Retrieve data from file coin.
+
 **-** This was the First time we integrated the Rainbow kit into our Project. Nobody has perfect knowledge about the rainbow kit Still we Figure out Some or other way to do it.
+
 **-** We learned how to deploy the project on **valist**. To be honest it was quite a difficult task for us But not impossible.
+
