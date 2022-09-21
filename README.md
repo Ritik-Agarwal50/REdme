@@ -56,6 +56,8 @@ If you visit our Website there is Two option out there. One is for Company and o
 
  **- Rainbow Kit**- 
  RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
+ 
+ <a href="https://www.rainbowkit.com/"><img src=".jpg"></a>
 
 ## Hurdles We faced during this project
 
