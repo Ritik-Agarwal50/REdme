@@ -1,7 +1,7 @@
-#Welcome To Career Expo
+# Welcome To Career Expo
 
 
-##Idea behind Career Expo
+## Idea behind Career Expo
 
 We heard that people Web3 people are using Centralize website for Getting jobs.So , Rahul, Passan, and I(Ritik) came up with the idea Of **Career Expo**.
 
