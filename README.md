@@ -25,8 +25,7 @@ Job Board is a Decentralize platform for Job Boarding.
 
 ## How to post a job in Carrer Expo
 
-If you visit our Website theree is Two option out there. One is for Comapany and other is for Applicant. If you want to post job for Company Click on Company Tag Connct Your metamask account and Fill Up the form. 
-If you are apllicant you can click on apllicnat tag and fill up you form adn Uplaod You CV. So other company can communicatee with ypu of Future communication.
+If you visit our Website there is Two option out there. One is for Company and other is for Applicant. If you want to post a job for Company Click on Company Tag Connect Your metamask account and Fill Up the form. If you are an applicant you can click on the applicant tag and fill up you form and Upload Your CV. So other companies can communicate with you of Future communication.
 
 ## Technologies We Used
 **- File Coin**- 
