@@ -31,7 +31,7 @@ We are connecting Company with the Applicant and vice versa. On this website, yo
  **-Vailist**
   
   
- **-Chainlink**
+**-Chainlink**
   asdadadadasd
 
 ## Hurdles We faced during this project
