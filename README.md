@@ -6,10 +6,14 @@ Let me introduce you all to the fantastic website called Job Board. Usually, wha
 
 ### Technologies we worked on
 
-**FileCoin (https://filecoin.io/)**
-**Chainlink(https://chain.link/)**
-**Polygon(https://polygon.technology/)**
+**FileCoin (https://filecoin.io/)![UOGBDOgv_400x400](https://user-images.githubusercontent.com/76695769/191413353-e8419147-24c8-4022-b1ee-42755bc5ccdb.jpg)
+**
+**Chainlink(https://chain.link![Polygon_logo_resized jpeg](https://user-images.githubusercontent.com/76695769/191413363-f36b9d9e-c168-4dc8-957b-db9405054e3a.jpg)
+/)**
+**Polygon(https://polygon.technology/)**![download](https://user-images.githubusercontent.com/76695769/191413367-3092d5c6-543a-462c-aad4-bc041d1e38c5.png)
+
 **Valist(https://www.valist.io/)**
+![Chainlink_Logo_Blue svg](https://user-images.githubusercontent.com/76695769/191413371-d50b12c8-7b55-48f5-be97-0d042ce30d76.png)
 
 
 ## Hurdles We faced during this project
