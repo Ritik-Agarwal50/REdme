@@ -15,7 +15,7 @@ Let me introduce you all to the fantastic website called Career Expo. Usually, w
 
 ## What it Offer
 
-Job Board is a Decentralize platform for Job Boarding 
+Job Board is a Decentralize platform for Job Boarding. 
   **-** Posting Job.
   **-** Connects with other people of your same Niche.
   **-** Providing Intership.
