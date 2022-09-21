@@ -32,7 +32,6 @@ If you visit our Website there is Two option out there. One is for Company and o
  File coin is a decentralized file storage system.
  In this, we are storing the data of the Company and the applicant and retrieving it when any of the users want it.
  
- ![https://web3.storage/](https://user-images.githubusercontent.com/76695769/191498530-9295336e-d56a-4371-8713-57528654f072.png)
  
  <a href="https://web3.storage/"><img src="https://user-images.githubusercontent.com/76695769/191498530-9295336e-d56a-4371-8713-57528654f072.png"></a>
 
@@ -46,11 +45,15 @@ If you visit our Website there is Two option out there. One is for Company and o
  
  **- Vailist**- 
  "thinking"
+ 
+ <a href="https://www.valist.io/"><img src="https://user-images.githubusercontent.com/76695769/191503826-d48052a8-ed6e-431e-9f71-fa4fd95a1169.jpg"></a>
   
-  
+
 **- Chainlink**- 
   "Thinking
   
+  <a href="https://chain.link/"><img src="https://user-images.githubusercontent.com/76695769/191504080-068d28d7-1ce1-47ce-8252-a5a40b6b92a5.png"></a>
+
  **- Rainbow Kit**- 
  RainbowKit is a React library that makes it easy to add wallet connection to your dapp. It's intuitive, responsive and customizable.
 
