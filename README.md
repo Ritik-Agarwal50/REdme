@@ -8,12 +8,11 @@ Let me introduce you all to the fantastic website called Job Board. Usually, wha
 
 **FileCoin (https://filecoin.io/)
 **
-**Chainlink(https://chain.link![Polygon_logo_resized jpeg](https://user-images.githubusercontent.com/76695769/191413363-f36b9d9e-c168-4dc8-957b-db9405054e3a.jpg)
+**Chainlink(https://chain.link
 /)**
-**Polygon(https://polygon.technology/)**![download](https://user-images.githubusercontent.com/76695769/191413367-3092d5c6-543a-462c-aad4-bc041d1e38c5.png)
+**Polygon(https://polygon.technology/)**
 
 **Valist(https://www.valist.io/)**
-![Chainlink_Logo_Blue svg](https://user-images.githubusercontent.com/76695769/191413371-d50b12c8-7b55-48f5-be97-0d042ce30d76.png)
 
 
 ## Hurdles We faced during this project
