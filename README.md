@@ -6,7 +6,7 @@ Let me introduce you all to the fantastic website called Job Board. Usually, wha
 
 ### Technologies we worked on
 
-**FileCoin (https://filecoin.io/)![UOGBDOgv_400x400](https://user-images.githubusercontent.com/76695769/191413353-e8419147-24c8-4022-b1ee-42755bc5ccdb.jpg)
+**FileCoin (https://filecoin.io/)
 **
 **Chainlink(https://chain.link![Polygon_logo_resized jpeg](https://user-images.githubusercontent.com/76695769/191413363-f36b9d9e-c168-4dc8-957b-db9405054e3a.jpg)
 /)**
